@@ -1,4 +1,4 @@
-Specification:
+### Specification:
 
 Implement the functions in helpers.c such that a user can apply grayscale, sepia, reflection, or blur filters to their images.
 
